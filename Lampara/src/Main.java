@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Lampara 1:"+Lampara1);
         //Crea lampara2 con el constructor sobrecargado
         Lampara Lampara2= new Lampara("Tecnolite", "Amarillo",900);
-        //Imprime Pais por el metodo toString
+        //Imprime Lampara2 por el metodo toString
         System.out.println("Lampara 2:"+Lampara2);
         //Utiliza metodos de uso general
 
